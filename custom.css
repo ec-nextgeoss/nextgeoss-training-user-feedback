@@ -1,0 +1,53 @@
+	
+div.guf_folded.user {  
+  background: bisque;
+}
+
+span.guf_key.user {
+   color: saddlebrown;
+}
+
+span.guf_key_2.user {
+ 	color: saddlebrown;
+}
+
+hr.guf_dashed.user {	
+	border-top: 1px dashed rosybrown;
+}
+
+hr.guf_solid.user {	
+	border-top: 1px solid rosybrown;
+}
+
+a.guf_link.user:link {
+	color: goldenrod;
+}
+
+a.guf_link.user:hover {
+	color: coral;
+}
+
+a.guf_link.user:visited {
+	color: brown;
+}
+
+div.guf_widget.user {
+	line-height: 1.5;
+	color: peru;
+	font-family: Garamond;
+}
+
+fieldset.guf_fieldset.user
+{
+	border-color: rosybrown;
+}
+
+input.guf_button.user {
+	background-color: bisque;
+  border-color: rosybrown;
+ 	font-family: Garamond;
+}
+
+legend.guf_legend.user {
+	color: DarkOrange;	
+}
