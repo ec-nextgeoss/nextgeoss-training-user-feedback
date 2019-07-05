@@ -1,4 +1,6 @@
-	
+
+/* Personal style for several elements */
+
 div.guf_folded.user {  
   background: bisque;
 }
@@ -50,4 +52,26 @@ input.guf_button.user {
 
 legend.guf_legend.user {
 	color: DarkOrange;	
+}
+
+/* Hidding several elements */
+
+div.guf_fb_id.user {
+	display: none;
+}
+
+div.guf_date.user {
+	display: none;
+}
+
+div.guf_purpose.user {
+	display: none;
+}
+
+div.guf_usage_description.user {
+	display: none;
+}
+
+div.guf_discovered_issue.user {
+	display: none;
 }
